@@ -1,0 +1,2 @@
+# chromeautoupdate
+now
